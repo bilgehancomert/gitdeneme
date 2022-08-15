@@ -4,5 +4,8 @@ public class C01 {
         System.out.println("Merhaba GitHub");
         System.out.println("2. deneme");
         System.out.println("3. deneme");
+        
+        System.out.println("3. deneme");
+        System.out.println("3. deneme");
     }
 }
