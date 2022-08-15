@@ -5,5 +5,6 @@ public class C01 {
         System.out.println("2. deneme");
         System.out.println("3. deneme");
         System.out.println("4. deneme");
+        System.out.println("4. deneme");
     }
 }
